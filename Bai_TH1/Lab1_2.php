@@ -31,4 +31,6 @@ $y = false;
 echo "true AND false: " . ($x && $y ? "true" : "false") .PHP_EOL;
 echo "true OR false: " . ($x || $y ? "true" : "false") .PHP_EOL;
 echo "NOT true: " . (!$x ? "true" : "false") .PHP_EOL;
+echo "NOT true: " . (!$x ? "true" : "false") .PHP_EOL;
+echo "NOT true: " . (!$x ? "true" : "false") .PHP_EOL;
 ?>
